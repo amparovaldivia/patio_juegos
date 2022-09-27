@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.constructor {
+    width: 80%;
+    height: 400px;
+    background-color: antiquewhite;
+    margin-left:10%;
+    margin-right: 10%;
+}
+
+.cubo {
+    background-color: beige;
+    width:80%;
+    height: 600px;
+    
+
+}
+
+h1 {
+    align-items: center;
+}
+
+
+.cuadrado {
+    width:120px;
+    height:120px;
+    background-color:lightblue ;
+}
